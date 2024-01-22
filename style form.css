@@ -1,0 +1,44 @@
+form{
+    background-color: deepskyblue;
+    width: 80%;
+    height: 550px;
+    margin: auto;
+    font-size: 30px;
+
+}
+legend{
+    text-align: center;
+}
+.one{
+    margin-top: 20px;
+    margin-left: 20%;
+    font-size: 30px;
+    background-color: green;
+}
+.two{
+    margin-left: 10%;
+    font-size: 30px;
+    background-color: blue;
+}
+label{
+    float: left;
+    width: 30%;
+    text-align: left;
+    margin-left: 40px;
+}
+input {
+  display: inline-block;
+  float: left;
+}
+.three{
+    margin-left: 1%;
+    width: 10%;
+}
+.four{
+     margin-left:1%;
+     width: 18%;
+}
+.five{
+     margin-left: 1%;
+     width: 10%;
+}

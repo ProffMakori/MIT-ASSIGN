@@ -1,0 +1,30 @@
+.one {
+    display: flex;
+}
+.pone{
+        padding-left: 40px;
+    padding-top: 170px;
+}
+
+img{
+        width: 400px;
+        height: 450px;
+}
+
+.two {
+    display: flex;
+}
+.ptwo{
+        padding-left: 40px;
+    padding-top: 170px;
+}
+
+
+.three {
+    display: flex;
+
+}
+.pthree{
+        padding-left: 40px;
+    padding-top: 170px;
+    }
